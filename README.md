@@ -2,8 +2,8 @@
 
 - 🌱 Atualmente estou aprendendo JS, HTML e CSS, e um pouco de Python para me auxiliar nas atividades da faculdade.
 - ✍🏻 Sou novo na plataforma, em desenvolvimento web e programação em geral. Espero poder me adaptar aqui, aprender e contribuir com o que eu puder.
-- ⚡ Sou apaixonado por arte, jogos, faço alguns desenhos e pretendo adaptar coisas que gosto em projetos futuros.
-- 🤗 Sou aberto a dicas, amo conversar e compartilhar dicas e informações, então sinta-se livre para me contatar a qualquer momento! 
+- ⚡ Sou apaixonado por arte, jogos, faço alguns desenhos e pretendo adaptar as coisas que eu gosto em projetos futuros.
+- 🤗 Sou aberto a dicas, amo conversar e compartilhar informações, então sinta-se livre para me contatar a qualquer momento! 
 ##
 
 <div align="center">
@@ -24,9 +24,9 @@
   ##
 
   <div>
-    <a href="https://instagram.com/wxslev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"></a>
-    <a href = "mailto:wesleysantosdev@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="external"></a>
-    <a href="https://www.linkedin.com/in/wesleysantosdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
+    <a href="https://instagram.com/wxslev" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="mailto:wesleysantosdev@outlook.com" rel="external"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/wesleysantosdev" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   </div>
   
            
