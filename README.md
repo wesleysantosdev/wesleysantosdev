@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/wesleysantosdev">
   <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=wesleysantosdev&show_icons=true&theme=radical&count_private=true"/>
-  <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysantosdev&layout=compact&langs_count=5&theme=radical"/>
+  <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysantosdev&layout=compact&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
