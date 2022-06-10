@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Wesley Santos 😄
 
-- 🌱 Atualmente estou aprendendo JS, HTML e CSS, e um pouco de Python para me auxiliar nas atividades da faculdade.
-- ✍🏻 Sou novo na plataforma, em desenvolvimento web e programação em geral. Espero poder me adaptar aqui, aprender e contribuir com o que eu puder.
-- ⚡ Sou apaixonado por arte, jogos, faço alguns desenhos e pretendo adaptar as coisas que eu gosto em projetos futuros.
-- 🤗 Sou aberto a dicas, amo conversar e compartilhar informações, então sinta-se livre para me contatar a qualquer momento! 
+- 🌱 Atualmente estou estudando JS, HTML e CSS (fora as atividades da faculdade), e pretendo me tornar um desenvolvedor front-end.
+- ⚡ Sou apaixonado por arte, jogos, faço alguns desenhos e pretendo estar sempre adaptando as coisas que gosto nos meus projetos.
+- 🤗 Sou totalmente aberto a dicas, amo conversar e compartilhar informações, então sinta-se livre para me contatar a qualquer momento!
+<!-- - ✍🏻 Sou novo na plataforma, em desenvolvimento web e programação em geral. Espero poder me adaptar aqui, aprender e contribuir com o que eu puder. --> 
 ##
 
 <div align="center">
@@ -16,7 +16,7 @@
   <img align="center" alt="Wesley-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Wesley-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<!--   <img align="center" alt="Wesley-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> -->
   <img align="center" alt="Wesley-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="right" alt="Wesley-Avatar" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/806662191432204322/956914941540073542/Webp.net-gifmaker.gif">
 </div>
