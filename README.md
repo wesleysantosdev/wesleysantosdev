@@ -3,11 +3,10 @@
 - 🌱 Atualmente estou estudando JS, HTML e CSS (fora as atividades da faculdade), e pretendo me tornar um desenvolvedor front-end.
 - ⚡ Sou apaixonado por arte, jogos, faço alguns desenhos e pretendo estar sempre adaptando as coisas que gosto nos meus projetos.
 - 🤗 Sou totalmente aberto a dicas, amo conversar e compartilhar informações, então sinta-se livre para me contatar a qualquer momento!
-<!-- - ✍🏻 Sou novo na plataforma, em desenvolvimento web e programação em geral. Espero poder me adaptar aqui, aprender e contribuir com o que eu puder. --> 
+
 ##
 
 <div align="center">
-  <a href="https://github.com/wesleysantosdev">
   <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=wesleysantosdev&show_icons=true&theme=radical&count_private=true"/>
   <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysantosdev&layout=compact&theme=radical"/>
 </div>
@@ -16,7 +15,6 @@
   <img align="center" alt="Wesley-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="Wesley-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> -->
   <img align="center" alt="Wesley-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="right" alt="Wesley-Avatar" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/806662191432204322/956914941540073542/Webp.net-gifmaker.gif">
 </div>
