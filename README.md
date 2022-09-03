@@ -1,9 +1,8 @@
-### Olá! Eu sou o Wesley Santos 😄
+### Hi! I'm Wesley Santos 😄:brazil:
 
-- 🌱 Atualmente estou estudando JS, HTML e CSS (fora as atividades da faculdade), e pretendo me tornar um desenvolvedor front-end.
-- ⚡ Sou apaixonado por arte, jogos, faço alguns desenhos e pretendo estar sempre adaptando as coisas que gosto nos meus projetos.
-- 🤗 Sou totalmente aberto a dicas, amo conversar e compartilhar informações, então sinta-se livre para me contatar a qualquer momento!
-
+- 🌱 Currently working as junior frontend developer, developing websites using HTML, CSS, JS and Bootstrap.
+- ⚡ I love drawing, playing video games and other things to exercise my creativity.
+- 🤗 Learning is my passion, so I'm totally open to learn from others, talk and share information, so feel free to contact me at any moment!
 ##
 
 <div align="center">
@@ -15,8 +14,10 @@
   <img align="center" alt="Wesley-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Wesley-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Wesley-Avatar" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/806662191432204322/956914941540073542/Webp.net-gifmaker.gif">
+  <img align="center" alt="Wesley-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Wesley-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  
+  <img align="right" alt="Wesley-Avatar" width="15%" style="border-radius:50px;" src="https://media.discordapp.net/attachments/806662191432204322/956914941540073542/Webp.net-gifmaker.gif">
 </div>
   
   ##
