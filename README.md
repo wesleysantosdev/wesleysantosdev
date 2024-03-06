@@ -1,7 +1,7 @@
-### Hi! I'm Wesley Santos 😄:brazil:
+### Hi! I'm Wesley Santos 😄
 
-- 🌱 Currently working as junior frontend developer, developing websites using HTML, CSS, JS and Bootstrap.
-- ⚡ I love drawing, playing video games and other things to exercise my creativity.
+- 🌱 Currently working as junior frontend developer at ADS Agência, developing websites using HTML, CSS, JS and Bootstrap.
+- ⚡ I love drawing, playing video games, watching movies... and obviously, coding.
 - 🤗 Learning is my passion, so I'm totally open to learn from others, talk and share information, so feel free to contact me at any moment!
 ##
 
@@ -17,7 +17,7 @@
   <img align="center" alt="Wesley-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Wesley-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
-  <img align="right" alt="Wesley-Avatar" width="15%" style="border-radius:50px;" src="https://media.discordapp.net/attachments/806662191432204322/956914941540073542/Webp.net-gifmaker.gif">
+  <img align="right" alt="Wesley-Avatar" width="15%" style="border-radius:50px;" src="https://s9.gifyu.com/images/SUsU5.gif">
 </div>
   
   ##
