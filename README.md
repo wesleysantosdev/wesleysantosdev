@@ -6,8 +6,8 @@
 ##
 
 <div align="center">
-  <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=wesleysantosdev&show_icons=true&theme=radical&count_private=true"/>
-  <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysantosdev&layout=compact&theme=radical"/>
+  <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=wesleysantosdev&show_icons=true&theme=radical&count_private=true"/>
+  <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysantosdev&layout=compact&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
   <img align="center" alt="Wesley-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Wesley-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
-  <img align="right" alt="Wesley-Avatar" width="15%" style="border-radius:50px;" src="https://s9.gifyu.com/images/SUsU5.gif">
+  <img align="right" alt="Wesley-Avatar" width="30%" style="border-radius:50px;" src="https://s9.gifyu.com/images/SUsU5.gif">
 </div>
   
   ##
