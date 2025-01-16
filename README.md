@@ -5,9 +5,9 @@
 - 🤗 Learning is my passion, so I'm totally open to learn from others, talk and share information, so feel free to contact me at any moment!
 ##
 
-<div align="center">
-  <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=wesleysantosdev&show_icons=true&theme=radical&count_private=true"/>
-  <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysantosdev&layout=compact&theme=radical"/>
+<div align="left">
+<!--   <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=wesleysantosdev&show_icons=true&theme=radical&count_private=true"/> -->
+  <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysantosdev&layout=compact&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
